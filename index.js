@@ -1,3 +1,3 @@
-const jsonData = require('./child//data')
+const jsonData = require('./child/data')
 
 console.log(jsonData)
