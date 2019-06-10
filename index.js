@@ -1,3 +1,1 @@
-const jsonData = require('./child/data')
-
-console.log(jsonData)
+console.log('parent')
